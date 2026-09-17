@@ -1,2 +1,2 @@
 environment  = "staging"
-project_name = "terraform-learning"
+project_name = "سsdfsf raform-learning-عحيشفثس"
